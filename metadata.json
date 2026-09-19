@@ -1,0 +1,6 @@
+{
+  "name": "XO Master",
+  "description": "لعبة إكس أو احترافية (Tic-Tac-Toe) تدعم تسجيل الدخول بحساب جوجل، ذكاء اصطناعي بمستويات متعددة، وإحصائيات شاملة جاهزة لمتجر جوجل بلاي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
